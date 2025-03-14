@@ -2,6 +2,8 @@
 Tableau de bord interactif pour l’analyse des performances et statistiques des JO 2024
 Voici une version détaillée et professionnelle de la description de ton projet d'analyse des Jeux Olympiques de Paris 2024 avec **Tableau Public**.  
 
+![Capture d'écran 2025-03-14 104526](https://github.com/user-attachments/assets/d914e6cd-7692-48dc-8750-fd88adecaf7f)
+
 ## 🏟 **Présentation du Projet**  
 Ce projet vise à fournir une **analyse détaillée et interactive** des performances des Jeux Olympiques de **Paris 2024** à l’aide de **Tableau Public**. Grâce à des tableaux de bord dynamiques, il permet de suivre les **médailles remportées**, les **performances des athlètes**, les **statistiques par pays** et d’autres **indicateurs clés** liés à cet événement mondial.  
 
@@ -34,7 +36,7 @@ L’objectif est d’offrir un **outil intuitif et visuellement attrayant** perm
 📌 **Carte interactive des médailles** : Répartition géographique des performances.  
 📊 **Treemap des sports et disciplines** : Visualisation des catégories les plus compétitives.  
 
-
+![Capture d'écran 2025-03-14 104559](https://github.com/user-attachments/assets/1b2d4710-0fc3-42d0-802f-7ee2351bf3d8)
 
 ### 🎛️ **3. Segments et Filtres Interactifs**  
 🔹 **Filtrage par pays** (France, USA, Chine, etc.).  
@@ -42,6 +44,7 @@ L’objectif est d’offrir un **outil intuitif et visuellement attrayant** perm
 🔹 **Filtrage par sexe** (Épreuves masculines, féminines, mixtes).  
 🔹 **Filtrage par période** (Jour, Semaine, Phase de qualification, Finale).  
 
+![Capture d'écran 2025-03-14 104559](https://github.com/user-attachments/assets/1035a3d3-6ea1-4fee-873d-96ae4206674d)
 
 
 ## 🔧 **Processus de Création**  
